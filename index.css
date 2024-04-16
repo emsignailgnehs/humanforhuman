@@ -1,0 +1,10 @@
+/* set the header text */
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: #5a5a5a;
+}
+/* set the background color */
+body {
+  background-color: #000000;
+}
